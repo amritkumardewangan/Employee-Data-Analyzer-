@@ -106,3 +106,8 @@ For each test:
 - [x] Individual PNG execution captures
 
 Before GitHub submission, run all tests yourself and replace any sample captures with your own VS Code screenshots if your instructor specifically requires literal screenshots from your computer.
+
+
+*Mentored by:* [Mr. Satyaprakash Sethy](https://github.com/SATYAPRAKASHSETHY)
+*GitHub:* [@SATYAPRAKASHSETHY](https://github.com/SATYAPRAKASHSETHY)
+*Role:* Python Mentor / Technical Guide
